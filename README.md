@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a junior fullstack developer with experience in:
+I am a software engineering student, currently training to consolidate my profile as a junior full stack developer. I have experience and skills in a variety of technologies and areas, including:
 
 - 🔭 Desktop application development with Java.
 - 🌐 Web development using Node.js, React.js, Vue.js.
@@ -12,4 +12,3 @@ I am a junior fullstack developer with experience in:
 I'm looking to collaborate on projects involving software analysis and development, and I'm keen to learn more about cybersecurity.
 
 📫 You can reach me through: adribalcd@gmail.com
-
